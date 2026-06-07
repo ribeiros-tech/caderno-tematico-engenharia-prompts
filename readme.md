@@ -52,9 +52,9 @@ Durante o estudo foram realizados diversos testes de prompts para avaliar a qual
 
 Pergunta:
 
-- O que são LLMs?
-Observação
+O que são LLMs?
 
+## Observação
 A resposta foi correta, porém bastante genérica e introdutória.
 
 ## Prompt 2
@@ -62,8 +62,8 @@ A resposta foi correta, porém bastante genérica e introdutória.
 Pergunta:
 
 Como são treinados os LLMs?
-Observação
 
+## Observação
 A resposta trouxe conceitos importantes como pré-treinamento, fine-tuning e escalabilidade.
 
 ## Prompt 3
@@ -71,8 +71,8 @@ A resposta trouxe conceitos importantes como pré-treinamento, fine-tuning e esc
 Pergunta:
 
 O que são tokens?
-Observação
 
+## Observação
 Permitiu compreender como os modelos processam texto internamente.
 
 ## Prompt 4
@@ -80,8 +80,8 @@ Permitiu compreender como os modelos processam texto internamente.
 Pergunta:
 
 Como os LLMs funcionam?
-Observação
 
+## Observação
 Apresentou detalhes sobre a arquitetura Transformer, atenção, contexto e predição de tokens.
 
 ## Prompt 5
@@ -89,8 +89,8 @@ Apresentou detalhes sobre a arquitetura Transformer, atenção, contexto e predi
 Pergunta:
 
 O que é Engenharia de Prompts?
-Observação
 
+## Observação
 Mostrou como instruções bem elaboradas aumentam a qualidade das respostas produzidas pela IA.
 
 ## Prompt 6
@@ -98,8 +98,8 @@ Mostrou como instruções bem elaboradas aumentam a qualidade das respostas prod
 Pergunta:
 
 Quais são os componentes de um bom prompt?
-Observação
 
+## Observação
 Introduziu conceitos importantes como Persona, Objetivo, Contexto e Formato de Saída.
 
 ## Prompt 7
@@ -107,8 +107,8 @@ Introduziu conceitos importantes como Persona, Objetivo, Contexto e Formato de S
 Pergunta:
 
 O que é Few-Shot Learning?
-Observação
 
+## Observação
 Demonstrou como exemplos podem aumentar a precisão das respostas.
 
 ## Prompt 8
@@ -116,8 +116,8 @@ Demonstrou como exemplos podem aumentar a precisão das respostas.
 Pergunta:
 
 O que é Chain of Thought?
-Observação
 
+## Observação
 Mostrou a importância do raciocínio passo a passo em tarefas complexas.
 
 ## Prompt 9
@@ -125,8 +125,8 @@ Mostrou a importância do raciocínio passo a passo em tarefas complexas.
 Pergunta:
 
 Como criar prompts mais eficientes?
-Observação
 
+## Observação
 Apresentou estratégias práticas para melhorar a comunicação com modelos de IA.
 
 ## Prompt 10
@@ -134,21 +134,22 @@ Apresentou estratégias práticas para melhorar a comunicação com modelos de I
 Pergunta:
 
 Quais são as aplicações práticas dos LLMs?
-Observação
 
+## Observação
 Relacionou os conceitos estudados a cenários reais de mercado.
 
 # Cicatrizes e Aprendizados
 
 Durante os testes foi possível identificar alguns desafios comuns:
 
-Problema Encontrado	Solução Aplicada
-Respostas muito genéricas	Adicionar contexto ao prompt
-Falta de exemplos	Solicitar exemplos práticos
-Respostas extensas demais	Definir limite de tamanho
-Linguagem muito técnica	Especificar nível do público
-Estrutura desorganizada	Solicitar resposta em tópicos
-Principal aprendizado
+Problema Encontrado	                             Solução Aplicada
+Respostas muito genéricas                      	 Adicionar contexto ao prompt
+Falta de exemplos	                               Solicitar exemplos práticos
+Respostas extensas demais	                       Definir limite de tamanho
+Linguagem muito técnica	                         Especificar nível do público
+Estrutura desorganizada	                         Solicitar resposta em tópicos
+
+## Principal aprendizado
 
 Quanto mais clara, específica e contextualizada for a instrução enviada ao modelo, melhor tende a ser a resposta gerada.
 
@@ -157,26 +158,27 @@ O que são LLMs?
 
 Modelos de Linguagem de Grande Escala treinados em enormes volumes de dados textuais para compreender e gerar linguagem natural.
 
-- Como Funcionam?
-Tokenização
-Processamento por Transformer
-Atenção (Attention Mechanism)
-Predição de Tokens
-Geração de Respostas
-Conceitos Fundamentais
-Token
+## Como Funcionam?
+-Tokenização
+-Processamento por Transformer
+-Atenção (Attention Mechanism)
+-Predição de Tokens
+-Geração de Respostas
+
+## Conceitos Fundamentais
+**Token**
 
 Unidade básica utilizada pelo modelo para processar texto.
 
-## Contexto
+**Contexto**
 
 Quantidade de informação que o modelo consegue considerar durante a conversa.
 
-## Fine-Tuning
+**Fine-Tuning**
 
 Treinamento adicional para especialização em tarefas específicas.
 
-## RAG
+**RAG**
 
 Técnica que conecta o modelo a fontes externas para reduzir alucinações.
 
@@ -184,40 +186,40 @@ Técnica que conecta o modelo a fontes externas para reduzir alucinações.
 
 Prática de criar instruções eficientes para maximizar a qualidade das respostas da IA.
 
-Técnicas Importantes
-Zero-Shot
+## Técnicas Importantes
+**Zero-Shot**
 
 Sem exemplos.
 
-One-Shot
+**One-Shot**
 
 Com um exemplo.
 
-Few-Shot
+**Few-Shot**
 
 Com múltiplos exemplos.
 
-Chain of Thought
+**Chain of Thought**
 
 Raciocínio passo a passo.
 
 # Glossário
-Conceito	Definição
-LLM	Large Language Model
-Prompt	Instrução enviada ao modelo
-Token	Unidade básica de processamento
-Transformer	Arquitetura principal dos LLMs
-Fine-Tuning	Ajuste especializado do modelo
-Contexto	Informações disponíveis durante a geração
-Few-Shot	Aprendizado por exemplos
-Chain of Thought	Raciocínio passo a passo
-Temperatura	Controle da criatividade da resposta
-RAG	Recuperação de conhecimento externo
+Conceito	                           Definição
+LLM	Large                            Language Model
+Prompt	                             Instrução enviada ao modelo
+Token	                               Unidade básica de processamento
+Transformer                        	 Arquitetura principal dos LLMs
+Fine-Tuning	                         Ajuste especializado do modelo
+Contexto	                           Informações disponíveis durante a geração
+Few-Shot	                           Aprendizado por exemplos
+Chain of Thought	                   Raciocínio passo a passo
+Temperatura                          Controle da criatividade da resposta
+RAG                             	   Recuperação de conhecimento externo
 
 # Prompts Reutilizáveis
 
 ## Estudos
-Explique [assunto] para um estudante de ADS.
+Explique [Engenharia de Prompts] para um estudante de ADS.
 Utilize exemplos práticos.
 Organize em tópicos.
 
