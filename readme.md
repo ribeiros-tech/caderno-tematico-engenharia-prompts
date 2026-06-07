@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte do desafio prático da DIO utilizando o
 
 O objetivo foi estudar os conceitos fundamentais dos Modelos de Linguagem de Grande Escala (LLMs) e da Engenharia de Prompts, explorando fontes confiáveis, realizando testes práticos de prompts e organizando o conhecimento adquirido em um material de consulta rápida.
 
-#📖 Contexto
+# Contexto
 
 Com o crescimento da Inteligência Artificial Generativa, compreender o funcionamento dos LLMs e saber criar instruções eficientes tornou-se uma habilidade essencial para profissionais de tecnologia.
 
@@ -48,16 +48,16 @@ Fonte 5
 
 Durante o estudo foram realizados diversos testes de prompts para avaliar a qualidade das respostas geradas pela IA.
 
-Prompt 1
+## Prompt 1
 
 Pergunta:
 
-O que são LLMs?
+- O que são LLMs?
 Observação
 
 A resposta foi correta, porém bastante genérica e introdutória.
 
-Prompt 2
+## Prompt 2
 
 Pergunta:
 
@@ -66,7 +66,7 @@ Observação
 
 A resposta trouxe conceitos importantes como pré-treinamento, fine-tuning e escalabilidade.
 
-Prompt 3
+## Prompt 3
 
 Pergunta:
 
@@ -75,7 +75,7 @@ Observação
 
 Permitiu compreender como os modelos processam texto internamente.
 
-Prompt 4
+## Prompt 4
 
 Pergunta:
 
@@ -84,7 +84,7 @@ Observação
 
 Apresentou detalhes sobre a arquitetura Transformer, atenção, contexto e predição de tokens.
 
-Prompt 5
+## Prompt 5
 
 Pergunta:
 
@@ -93,7 +93,7 @@ Observação
 
 Mostrou como instruções bem elaboradas aumentam a qualidade das respostas produzidas pela IA.
 
-Prompt 6
+## Prompt 6
 
 Pergunta:
 
@@ -102,7 +102,7 @@ Observação
 
 Introduziu conceitos importantes como Persona, Objetivo, Contexto e Formato de Saída.
 
-Prompt 7
+## Prompt 7
 
 Pergunta:
 
@@ -111,7 +111,7 @@ Observação
 
 Demonstrou como exemplos podem aumentar a precisão das respostas.
 
-Prompt 8
+## Prompt 8
 
 Pergunta:
 
@@ -120,7 +120,7 @@ Observação
 
 Mostrou a importância do raciocínio passo a passo em tarefas complexas.
 
-Prompt 9
+## Prompt 9
 
 Pergunta:
 
@@ -129,7 +129,7 @@ Observação
 
 Apresentou estratégias práticas para melhorar a comunicação com modelos de IA.
 
-Prompt 10
+## Prompt 10
 
 Pergunta:
 
@@ -157,7 +157,7 @@ O que são LLMs?
 
 Modelos de Linguagem de Grande Escala treinados em enormes volumes de dados textuais para compreender e gerar linguagem natural.
 
-Como Funcionam?
+- Como Funcionam?
 Tokenização
 Processamento por Transformer
 Atenção (Attention Mechanism)
@@ -168,19 +168,19 @@ Token
 
 Unidade básica utilizada pelo modelo para processar texto.
 
-Contexto
+## Contexto
 
 Quantidade de informação que o modelo consegue considerar durante a conversa.
 
-Fine-Tuning
+## Fine-Tuning
 
 Treinamento adicional para especialização em tarefas específicas.
 
-RAG
+## RAG
 
 Técnica que conecta o modelo a fontes externas para reduzir alucinações.
 
-Engenharia de Prompts
+## Engenharia de Prompts
 
 Prática de criar instruções eficientes para maximizar a qualidade das respostas da IA.
 
