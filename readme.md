@@ -327,7 +327,7 @@ Crie 10 perguntas e respostas sobre este tema.
 
 ---
 
-# ✅ Conclusão
+#  Conclusão
 
 O desenvolvimento deste caderno temático permitiu compreender os fundamentos dos LLMs e da Engenharia de Prompts, além de demonstrar como a utilização estratégica do NotebookLM pode apoiar a aprendizagem ativa, a organização do conhecimento e a construção de materiais de estudo mais eficientes.
 
