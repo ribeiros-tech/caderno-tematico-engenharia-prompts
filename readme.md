@@ -53,6 +53,20 @@ As seguintes fontes foram utilizadas como base para o estudo e análise dentro d
 
 ---
 
+## Prints do NotebookLM
+
+### Fontes Utilizadas
+
+![Fontes](assets/notebooklm-fontes.png)
+
+### Testes de Prompts
+
+![Prompts](assets/notebooklm-prompts.png)
+
+### Respostas Geradas
+
+![Respostas](assets/notebooklm-respostas.png)
+
 #  Engenharia de Prompts
 
 Durante o estudo foram realizados diversos testes de prompts para avaliar a qualidade das respostas geradas pela IA.
