@@ -52,21 +52,6 @@ As seguintes fontes foram utilizadas como base para o estudo e análise dentro d
 [https://www.bing.com/ck/a?!&&p=069b1beb014f27124961ec07619feaa03e00ce419426af72c2db564c477c4a5cJmltdHM9MTc4MDUzMTIwMA&ptn=3&ver=2&hsh=4&fclid=3d752369-0bf0-685e-2d38-34570a5f693c&psq=Artigo+sobre+LLMs&u=a1aHR0cHM6Ly9lZHZhbGRvZ3VpbWFyYWVzLmNvbS5ici8yMDI0LzA5LzA3LzMwLWFydGlnb3MtbWFpcy1pbXBvcnRhbnRlcy1wYXJhLWFwcmVuZGVyLXNvYnJlLWxsbXMtbGFyZ2UtbGFuZ3VhZ2UtbW9kZWxzLw]
 
 ---
-
-## Prints do NotebookLM
-
-### Fontes Utilizadas
-
-![Fontes](notebooklm-01.png)
-
-### Testes de Prompts
-
-![Prompts](assets/notebooklm-prompts.png)
-
-### Respostas Geradas
-
-![Respostas](assets/notebooklm-respostas.png)
-
 #  Engenharia de Prompts
 
 Durante o estudo foram realizados diversos testes de prompts para avaliar a qualidade das respostas geradas pela IA.
