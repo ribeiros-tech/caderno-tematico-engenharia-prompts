@@ -57,7 +57,7 @@ As seguintes fontes foram utilizadas como base para o estudo e análise dentro d
 
 ### Fontes Utilizadas
 
-![Fontes](assets/notebooklm-fontes.png)
+![Fontes](notebooklm-01.png)
 
 ### Testes de Prompts
 
